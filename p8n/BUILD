@@ -1,7 +1,7 @@
 package(default_visibility = ["//visibility:public"])
 
 cc_library(
-    name = "common_lib",
+    name = "p8n_lib",
     srcs = ["lib.cc"],
     hdrs = ["lib.h"],
     deps = [
