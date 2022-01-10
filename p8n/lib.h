@@ -1,7 +1,7 @@
 //#include <iostream>
 
-namespace common {
+namespace p8n {
 
 void print_hello();
 
-}  // namespace common
+}  // namespace p8n

@@ -1,9 +1,9 @@
-#include "s_loop/lib.h"
+#include "p8n/lib.h"
 
-namespace common {
+namespace p8n {
 void print_hello() {
   // std::cout << "Hello World!";
   return;
 }
 
-}  // namespace common
+}  // namespace p8n
