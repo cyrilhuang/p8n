@@ -2,7 +2,7 @@
 
 namespace common {
 void print_hello() {
-  std::cout << "Hello World!";
+  // std::cout << "Hello World!";
   return;
 }
 
